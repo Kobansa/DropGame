@@ -27,3 +27,9 @@ public class ScoreScript : MonoBehaviour
         }
     }
 }
+
+
+//CanvasのTextに書く
+//Capsule Collider とBox Colliderの is Triggerにチェックを入れる
+//Add TagでTag指定をする
+//BasketにもScoreScriptを入れる（無くてもいいかも）
